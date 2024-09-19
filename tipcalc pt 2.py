@@ -1,4 +1,4 @@
-service = 0
+service = input("How was the service")
 
 
 
